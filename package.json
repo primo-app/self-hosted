@@ -29,7 +29,7 @@
     "concurrently": "^5.3.0",
     "jest": "^26.5.3",
     "nodemon": "^2.0.5",
-    "postcss": "^7.0.35",
+    "postcss": "^8.2.10",
     "postcss-load-config": "^2.1.2",
     "postcss-nested": "^4.2.1",
     "prettier": "2.1.2",
